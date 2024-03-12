@@ -1,3 +1,3 @@
 # About the Project
-*For studying the github
-*For studying the full stack programmer
+  * For studying the github
+  * For studying the full stack programmer
